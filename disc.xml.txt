@@ -1,0 +1,24 @@
+<items>
+  <item>
+    <item-id>1</item-id>
+    <item-name>GROUND</item-name>
+    <place-of-belonging>PORCH</place-of-belonging>
+    <checked-out>F</checked-out>
+    <item-origin>VIBRANT_LIFE</item-origin>
+    <item-color>Silver</item-color>
+    <item-pattern>cross-thatch, B/W</item-pattern>
+    <item-nickname>My Precious</item-nickname>
+    <item-new-cost>$1000</item-new-cost>
+    <item-resale-value>$700</item-resale-value>
+    <item-texture>Smooth</item-texture>
+    <photograph-field>pad.jpg</photograph-field>
+    <item-codename>Alpha</item-codename>
+    <item-condition-of-use>Good</item-condition-of-use>
+    <item-level-of-joy-giving>High</item-level-of-joy-giving>
+    <item-body-shape>Rectangle With Bevel</item-body-shape>
+    <item-spirit-animal>Wolf</item-spirit-animal>
+    <item-country-source>China</item-country-source>
+    <item-deen-category>???</item-deen-category>
+  </item>
+  <!-- Additional items go here -->
+</items>
