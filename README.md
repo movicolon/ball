@@ -1,5 +1,5 @@
-∈SPHERE
+SPHERE sfˈɪ͡ɹ sfˈere sfˈeɾɨ
 
-arcanā oṃ tvaṃ naḥ pitā no bodhaya pitaḥ agre gacchāmi mama praṇatena mā no hāniṃ kuru । viśvaṃ devāṃ sūryaṃ viśvasya dravyāṇāṃ ca doṣāḥ yad bhadraṃ na bhavati brahmāṇḍa śambhavaṃ bhagavantam śraddhāñjalim arpayāmi māyābhavaḥ śaṅkaraḥ māyāskaraḥ ca । bhagavān śivaḥ śivatāraḥ ≠الوعي والقوة
+[a komplˈeks ðisplˈa͡ɪ](surface consists of hundreds or thousands of facets, nearly all of approximately the same shape and size, and each has a mirrored surface.)
 
-#Klf4
+MAKE 700 "TILES" IN 5 YEARS. EACH TILE WORTH 1 MILLION DOLLARS. EXCHANGE THEM FOR DOLLARS, ZIG, OR OTHERS. THINK WITH-:KNOWLEDGE.
